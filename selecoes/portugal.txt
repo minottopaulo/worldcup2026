@@ -1,0 +1,27 @@
+Portugal|K|88
+Rui Patricio|Goleiro|Roma|1|83
+Jose Sa|Goleiro|Wolverhampton Wanderers|12|74
+Diogo Costa|Goleiro|Porto|23|77
+Diogo Dalot|Defensor|Manchester United|2|79
+Ruben Dias|Defensor|Manchester City|5|84
+Nuno Mendes|Defensor|Paris Saint-Germain|3|81
+Ruben Semedo|Defensor|Villarreal|4|74
+Joao Cancelo|Defensor|Barcelona|6|84
+Danilo Pereira|Defensor|Paris Saint-Germain|13|84
+Antonio Silva|Defensor|Benfica|15|76
+Toti Gomes|Defensor|Wolverhampton Wanderers|22|73
+Joao Moutinho|Meio-campo|Wolverhampton Wanderers|8|81
+William Carvalho|Meio-campo|Real Betis|14|78
+Renato Sanches|Meio-campo|PSG|16|72
+Vitinha|Meio-campo|Paris Saint-Germain|20|81
+Matheus Nunes|Meio-campo|Manchester City|21|81
+Otavio|Meio-campo|Al-Nassr|17|72
+Florentino Luis|Meio-campo|Benfica|19|77
+Cristiano Ronaldo|Atacante|Al-Nassr|7|85
+Andre Silva|Atacante|RB Leipzig|9|74
+Bernardo Silva|Atacante|Manchester City|10|88
+Rafael Leao|Atacante|AC Milan|11|80
+Goncalo Ramos|Atacante|Paris Saint-Germain|18|82
+Francisco Conceicao|Atacante|Porto|24|77
+Joao Felix|Atacante|Barcelona|25|86
+Joao Neves|Atacante|Paris Saint-Germain|26|80

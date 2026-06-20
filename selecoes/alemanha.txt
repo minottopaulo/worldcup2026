@@ -1,0 +1,27 @@
+Alemanha|E|87
+Manuel Neuer|Goleiro|Bayern Munich|1|87
+Marc-Andre ter Stegen|Goleiro|Barcelona|12|83
+Oliver Baumann|Goleiro|TSG Hoffenheim|23|73
+Jonathan Tah|Defensor|Bayer Leverkusen|4|80
+Nico Schlotterbeck|Defensor|Borussia Dortmund|5|78
+David Raum|Defensor|RB Leipzig|3|70
+Benjamin Pavard|Defensor|Inter Milan|2|80
+Antonio Rudiger|Defensor|Real Madrid|6|86
+Robin Gosens|Defensor|Union Berlin|13|70
+Thilo Kehrer|Defensor|West Ham United|15|74
+Malick Thiaw|Defensor|AC Milan|22|76
+Toni Kroos|Meio-campo|Real Madrid|8|90
+Joshua Kimmich|Meio-campo|Bayern Munich|6|90
+Leon Goretzka|Meio-campo|Bayern Munich|14|84
+Kai Havertz|Meio-campo|Arsenal|7|88
+Leroy Sane|Meio-campo|Bayern Munich|19|90
+Ilkay Gundogan|Meio-campo|Barcelona|21|90
+Florian Wirtz|Meio-campo|Bayer Leverkusen|16|78
+Jamal Musiala|Atacante|Bayern Munich|10|86
+Niclas Fullkrug|Atacante|West Ham United|9|77
+Serge Gnabry|Atacante|Bayern Munich|11|86
+Thomas Muller|Atacante|Bayern Munich|13|92
+Deniz Undav|Atacante|VfB Stuttgart|25|74
+Chris Fuhrich|Atacante|VfB Stuttgart|17|73
+Maximilian Beier|Atacante|Borussia Dortmund|18|76
+Tim Kleindienst|Atacante|Borussia Mönchengladbach|26|69

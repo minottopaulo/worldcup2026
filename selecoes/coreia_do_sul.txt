@@ -1,0 +1,27 @@
+Coreia do Sul|A|76
+Kim Seung-gyu|Goleiro|FC Tokyo|1|73
+Jo Hyeon-woo|Goleiro|Ulsan HD|21|71
+Song Bum-keun|Goleiro|Jeonbuk Hyundai Motors|23|68
+Kim Min-jae|Defensor|Bayern Munich|3|86
+Kim Moon-hwan|Defensor|Daejeon Hana Citizen|2|69
+Seol Young-woo|Defensor|Red Star Belgrade|5|69
+Lee Tae-seok|Defensor|Austria Wien|15|68
+Park Jin-seob|Defensor|Zhejiang|4|68
+Kim Tae-hyeon|Defensor|Kashima Antlers|13|68
+Lee Han-beom|Defensor|Midtjylland|6|73
+Jens Castrop|Defensor|Borussia Mönchengladbach|14|68
+Lee Ki-hyuk|Defensor|Gangwon FC|22|68
+Cho Wi-je|Defensor|Jeonbuk Hyundai Motors|24|68
+Lee Jae-sung|Meio-campo|Mainz 05|16|83
+Hwang Hee-chan|Meio-campo|Wolverhampton Wanderers|11|81
+Hwang In-beom|Meio-campo|Feyenoord|8|82
+Lee Kang-in|Meio-campo|Paris Saint-Germain|7|86
+Paik Seung-ho|Meio-campo|Birmingham City|17|69
+Kim Jin-gyu|Meio-campo|Jeonbuk Hyundai Motors|20|69
+Lee Dong-gyeong|Meio-campo|Ulsan HD|19|68
+Bae Jun-ho|Meio-campo|Stoke City|18|68
+Eom Ji-sung|Meio-campo|Swansea City|25|68
+Yang Hyun-jun|Meio-campo|Celtic|26|76
+Son Heung-min|Atacante|Los Angeles FC|9|85
+Cho Gue-sung|Atacante|Midtjylland|10|77
+Oh Hyeon-gyu|Atacante|Beşiktaş|12|75

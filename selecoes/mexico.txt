@@ -1,0 +1,26 @@
+Mexico|A|78
+Guillermo Ochoa|Goleiro|AEL Limassol|1|75
+Raul Rangel|Goleiro|Guadalajara|12|71
+Carlos Acevedo|Goleiro|Santos Laguna|23|71
+Jesus Gallardo|Defensor|Toluca|2|79
+Cesar Montes|Defensor|Lokomotiv Moscow|3|72
+Jorge Sanchez|Defensor|PAOK|4|72
+Johan Vasquez|Defensor|Genoa|5|76
+Israel Reyes|Defensor|America|6|72
+Mateo Chavez|Defensor|AZ|24|68
+Edson Alvarez|Meio-campo|Fenerbahçe|8|79
+Orbelin Pineda|Meio-campo|AEK Athens|7|76
+Roberto Alvarado|Meio-campo|Guadalajara|14|75
+Luis Romo|Meio-campo|Guadalajara|16|74
+Luis Chavez|Meio-campo|Dynamo Moscow|19|71
+Erik Lira|Meio-campo|Cruz Azul|20|72
+Brian Gutierrez|Meio-campo|Guadalajara|17|71
+Obed Vargas|Meio-campo|Atletico Madrid|21|76
+Alvaro Fidalgo|Meio-campo|Real Betis|15|73
+Raul Jimenez|Atacante|Fulham|9|85
+Alexis Vega|Atacante|Toluca|11|75
+Santiago Gimenez|Atacante|Milan|22|80
+Cesar Huerta|Atacante|Anderlecht|10|74
+Julian Quinones|Atacante|Al-Qadsiah|18|69
+Guillermo Martinez|Atacante|UNAM|13|71
+Armando Gonzalez|Atacante|Guadalajara|25|71

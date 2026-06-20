@@ -1,0 +1,27 @@
+Uruguai|H|82
+Fernando Muslera|Goleiro|Galatasaray|1|80
+Sebastian Sosa|Goleiro|Independiente|23|72
+Augustin Rossi|Goleiro|Flamengo|12|71
+Jose Maria Gimenez|Defensor|Atletico Madrid|2|82
+Diego Godin|Defensor|Velez Sarsfield|3|78
+Ronald Araujo|Defensor|Barcelona|4|84
+Sebastian Coates|Defensor|Sporting CP|5|79
+Martin Caceres|Defensor|LA Galaxy|6|76
+Guillermo Varela|Defensor|Flamengo|13|72
+Mathias Olivera|Defensor|Napoli|15|78
+Nahitan Nandez|Defensor|Cagliari|22|72
+Federico Valverde|Meio-campo|Real Madrid|8|88
+Rodrigo Bentancur|Meio-campo|Tottenham|7|80
+Matias Vecino|Meio-campo|Lazio|14|82
+Giorgian De Arrascaeta|Meio-campo|Flamengo|10|81
+Lucas Torreira|Meio-campo|Galatasaray|16|79
+Manuel Ugarte|Meio-campo|Manchester United|17|79
+Facundo Pellistri|Meio-campo|Granada CF|20|74
+Luis Suarez|Atacante|Gremio|9|85
+Darwin Nunez|Atacante|Liverpool|11|86
+Edinson Cavani|Atacante|Boca Juniors|18|85
+Maximiliano Gomez|Atacante|Valencia|21|74
+Agustin Alvarez|Atacante|Sassuolo|19|75
+Facundo Torres|Atacante|Orlando City SC|24|70
+Santiago Mele|Atacante|Nacional|25|71
+Brian Ocampo|Atacante|Celta Vigo|26|69

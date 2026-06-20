@@ -1,0 +1,27 @@
+Jordania|J|62
+Amer Shafi|Goleiro|Al-Faisaly|1|73
+Mousa Al-Shomali|Goleiro|Al-Wahdat|12|69
+Muntaser Talal|Goleiro|Al-Jazeera Club|23|68
+Bachar Habash|Defensor|Al-Faisaly|5|72
+Ahmed Ibrahim|Defensor|Al-Wehdat|3|71
+Ehsan Haddad|Defensor|Al-Faisaly|4|72
+Salem Al-Ajalin|Defensor|Al-Jazeera Club|2|69
+Oday Al-Dabbagh|Defensor|IFK Goteborg|6|70
+Khaled Al-Omari|Defensor|Al-Wahdat|15|71
+Rami Hamdan|Defensor|Al-Faisaly|13|68
+Mahdi Al-Rashdan|Defensor|Al-Jazeera Club|22|68
+Musa Al-Tamari|Meio-campo|Montpellier|8|74
+Ahmad Dabbas|Meio-campo|Al-Wehdat|10|72
+Abdullah Nasib|Meio-campo|Ferencvaros|14|69
+Yazan Al-Naimat|Meio-campo|Apoel FC|7|69
+Nawras Al-Rawabdeh|Meio-campo|Bohemian FC|17|69
+Hassan Al-Shahin|Meio-campo|Umm Salal|16|68
+Musa Al-Rashdan|Meio-campo|Al-Wahdat|20|69
+Yousef Al-Naber|Atacante|Al-Faisaly|9|74
+Ahmad Hayel|Atacante|Al-Wahdat|11|70
+Baha Al-Amwawi|Atacante|Al-Wahdat|18|70
+Ibrahim Al-Shadi|Atacante|Sepahan|19|70
+Musa Suleiman|Atacante|Al-Faisaly|21|69
+Raed Nimri|Atacante|Al-Wahdat|24|68
+Feras Al-Jarrah|Atacante|Al-Faisaly|25|68
+Amjad Atwan|Atacante|Al-Wahdat|26|68

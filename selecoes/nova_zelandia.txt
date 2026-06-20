@@ -1,0 +1,27 @@
+Nova Zelandia|G|60
+Oliver Sail|Goleiro|Nottingham Forest|1|74
+Stefan Marinovic|Goleiro|Al Jazira Club|12|69
+Michael Woud|Goleiro|Feyenoord|23|76
+Nando de Wijs|Defensor|Go Ahead Eagles|5|68
+Michael Boxall|Defensor|Minnesota United|3|72
+Winston Reid|Defensor|Brentford|4|77
+Liberato Cacace|Defensor|Empoli|2|69
+Storm Roux|Defensor|FC Cincinnati|6|69
+Cameron Howieson|Defensor|Livingston|13|68
+Tommy Smith|Defensor|Stoke City|15|71
+Kosta Barbarouses|Defensor|Yokohama F. Marinos|22|74
+Clayton Lewis|Meio-campo|Vancouver Whitecaps|8|69
+Joe Bell|Meio-campo|Nashville SC|14|69
+Elijah Just|Meio-campo|RB Salzburg|10|68
+Ryan Thomas|Meio-campo|PEC Zwolle|7|69
+Marco Rojas|Meio-campo|Melbourne Victory|17|72
+Callum McCowatt|Meio-campo|HB Koge|16|68
+Matthew Garbett|Meio-campo|Troyes|20|68
+Oli McBurnie|Atacante|Sheffield United|9|70
+Dane Ingham|Atacante|Auckland City|11|68
+Myer Bevan|Atacante|Wellington Phoenix|18|68
+Ben Waine|Atacante|Kilmarnock|19|68
+Callan Elliot|Atacante|Wellington Phoenix|21|68
+Andre de Jong|Atacante|Ajax|24|77
+Ulises Davila|Atacante|San Jose Earthquakes|25|68
+Stefan Rodriques|Atacante|Apollon Limassol|26|68

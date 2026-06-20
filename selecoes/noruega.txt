@@ -1,0 +1,27 @@
+Noruega|I|80
+Orjan Nyland|Goleiro|Sevilla|1|76
+Rune Jarstein|Goleiro|Hertha BSC|12|71
+Sten Grytebust|Goleiro|Odd|23|68
+Leo Ostigard|Defensor|Napoli|5|78
+Birger Meling|Defensor|Rennes|3|74
+Stefan Strandberg|Defensor|Krasnodar|4|72
+Kristoffer Ajer|Defensor|Brentford|2|77
+Marcus Holmgren Pedersen|Defensor|Fiorentina|6|70
+Julian Ryerson|Defensor|Borussia Dortmund|15|77
+Stian Gregersen|Defensor|Southampton|13|74
+Birkir Saevarsson|Defensor|FC Copenhagen|22|73
+Martin Odegaard|Meio-campo|Arsenal|8|88
+Sander Berge|Meio-campo|Fulham|10|77
+Stefan Johansen|Meio-campo|Fulham|14|81
+Morten Thorsby|Meio-campo|Genoa|7|76
+Fredrik Aursnes|Meio-campo|Benfica|17|79
+Mathias Normann|Meio-campo|Rostov|20|71
+Patrick Berg|Meio-campo|Bodo/Glimt|16|69
+Erling Haaland|Atacante|Manchester City|9|84
+Alexander Sorloth|Atacante|Atletico Madrid|11|86
+Havard Nielsen|Atacante|Bochum|18|70
+Ola Solbakken|Atacante|Roma|21|77
+Ohi Omoijuanfo|Atacante|Stade de Reims|19|70
+Mohamed Elyounoussi|Atacante|Celtic|24|84
+Antonio Nusa|Atacante|Red Bull Salzburg|25|68
+Leo Skiri Ostigard|Atacante|Napoli|26|76

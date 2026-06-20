@@ -1,0 +1,27 @@
+Australia|D|72
+Mathew Ryan|Goleiro|AZ|1|73
+Paul Izzo|Goleiro|FC Midtjylland|12|73
+Patrick Beach|Goleiro|New England Revolution|23|68
+Milos Degenek|Defensor|Columbus Crew|2|71
+Harry Souttar|Defensor|Leicester City|3|70
+Aziz Behich|Defensor|Dundee United|5|71
+Jordan Bos|Defensor|Como 1907|4|68
+Cameron Burgess|Defensor|Ipswich Town|6|68
+Alessandro Circati|Defensor|Parma|15|68
+Jason Geria|Defensor|Hellas Verona|13|68
+Lucas Herrington|Defensor|Melbourne City|22|68
+Jacob Italiano|Defensor|Hoffenheim|24|73
+Kai Trewin|Defensor|Brentford|25|73
+Jackson Irvine|Meio-campo|Middlesbrough|7|74
+Connor Metcalfe|Meio-campo|Stoke City|8|69
+Cameron Devlin|Meio-campo|Heart of Midlothian|14|69
+Ajdin Hrustic|Meio-campo|Hellas Verona|16|72
+Aiden O'Neill|Meio-campo|Preston North End|17|69
+Paul Okon-Engstler|Meio-campo|Central Coast Mariners|20|68
+Mathew Leckie|Atacante|Melbourne City|9|76
+Awer Mabil|Atacante|Kasimpasa|11|74
+Nestory Irankunda|Atacante|Bayern Munich|19|81
+Cristian Volpato|Atacante|Sassuolo|10|73
+Mohamed Toure|Atacante|Hellas Verona|18|68
+Nishan Velupillay|Atacante|NEC Nijmegen|21|68
+Tete Yengi|Atacante|Adelaide United|26|68

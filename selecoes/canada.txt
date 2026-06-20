@@ -1,0 +1,25 @@
+Canada|B|79
+Dayne St. Clair|Goleiro|Inter Miami CF|1|71
+Maxime Crepeau|Goleiro|Orlando City SC|16|69
+Owen Goodman|Goleiro|Barnsley|18|68
+Alphonso Davies|Defensor|Bayern Munich|19|86
+Alistair Johnston|Defensor|Celtic|2|79
+Richie Laryea|Defensor|Toronto FC|22|76
+Derek Cornelius|Defensor|Rangers|13|79
+Moise Bombito|Defensor|Nice|15|68
+Joel Waterman|Defensor|Chicago Fire FC|5|68
+Niko Sigur|Defensor|Hajduk Split|23|68
+Luc de Fougerolles|Defensor|Dender|3|68
+Alfie Jones|Defensor|Middlesbrough|4|68
+Stephen Eustaquio|Meio-campo|Los Angeles FC|7|74
+Tajon Buchanan|Meio-campo|Villarreal|17|77
+Ismael Kone|Meio-campo|Sassuolo|8|74
+Jonathan Osorio|Meio-campo|Toronto FC|21|77
+Jacob Shaffelburg|Meio-campo|Los Angeles FC|14|73
+Mathieu Choiniere|Meio-campo|Los Angeles FC|6|72
+Ali Ahmed|Meio-campo|Norwich City|20|69
+Nathan Saliba|Meio-campo|Anderlecht|25|73
+Jonathan David|Atacante|Juventus|10|86
+Cyle Larin|Atacante|Southampton|9|83
+Tani Oluwaseyi|Atacante|Villarreal|12|74
+Promise David|Atacante|Union Saint-Gilloise|24|68

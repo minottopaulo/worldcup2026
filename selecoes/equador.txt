@@ -1,0 +1,27 @@
+Equador|E|75
+Hernan Galindez|Goleiro|Aucas|1|71
+Alexander Dominguez|Goleiro|LDU Quito|12|73
+Kevin Minda|Goleiro|Independiente del Valle|23|71
+Pervis Estupinan|Defensor|Brighton|3|72
+Piero Hincapie|Defensor|Bayer Leverkusen|4|80
+Felix Torres|Defensor|Santos Laguna|5|75
+Angelo Preciado|Defensor|Genk|2|72
+William Pacho|Defensor|Paris Saint-Germain|6|81
+Diego Palacios|Defensor|Toronto FC|15|72
+Xavier Arreaga|Defensor|Santos Laguna|13|72
+Juan Carlos Paredes|Defensor|Celta Vigo|22|72
+Moises Caicedo|Meio-campo|Chelsea|8|83
+Gonzalo Plata|Meio-campo|Sporting CP|10|79
+Jose Cifuentes|Meio-campo|Los Angeles FC|14|72
+Romario Ibarra|Meio-campo|Pachuca|16|72
+Jeremy Sarmiento|Meio-campo|Brighton|7|69
+Alan Minda|Meio-campo|Independiente del Valle|17|71
+Jhegson Mendez|Meio-campo|Los Angeles FC|20|72
+Enner Valencia|Atacante|Tigres|9|83
+Michael Estrada|Atacante|Cruz Azul|11|75
+Djorkaeff Reasco|Atacante|Necaxa|18|69
+Jordy Caicedo|Atacante|Olimpia|19|69
+Kevin Rodriguez|Atacante|Ituano|21|68
+Leonardo Campana|Atacante|Columbus Crew|24|68
+Israel Alba|Atacante|Independiente del Valle|25|71
+Kendry Paez|Atacante|Independiente del Valle|26|71

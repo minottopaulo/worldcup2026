@@ -1,0 +1,27 @@
+Japao|F|78
+Shuichi Gonda|Goleiro|Shimizu S-Pulse|1|71
+Zion Suzuki|Goleiro|Anderlecht|12|73
+Kosei Tani|Goleiro|Shonan Bellmare|23|68
+Hiroki Sakai|Defensor|Urawa Red Diamonds|22|74
+Takehiro Tomiyasu|Defensor|Arsenal|5|83
+Yuto Nagatomo|Defensor|FC Tokyo|3|76
+Ko Itakura|Defensor|Borussia Mönchengladbach|4|69
+Shogo Taniguchi|Defensor|Kawasaki Frontale|16|70
+Miki Yamane|Defensor|Kawasaki Frontale|15|69
+Yukinari Sugawara|Defensor|Southampton|2|74
+Maya Yoshida|Defensor|Schalke 04|13|76
+Wataru Endo|Meio-campo|Liverpool|6|83
+Hidemasa Morita|Meio-campo|Sporting CP|8|76
+Gaku Shibasaki|Meio-campo|Leganes|7|72
+Takumi Minamino|Meio-campo|Monaco|10|86
+Junya Ito|Meio-campo|Stade de Reims|14|74
+Kaoru Mitoma|Meio-campo|Brighton|17|72
+Yuki Soma|Meio-campo|Nagoya Grampus|20|69
+Daichi Kamada|Meio-campo|Crystal Palace|19|79
+Ayase Ueda|Atacante|Feyenoord|9|78
+Ao Tanaka|Atacante|Fortuna Dusseldorf|11|69
+Takefusa Kubo|Atacante|Real Sociedad|18|70
+Yuya Osako|Atacante|Vissel Kobe|21|78
+Keito Nakamura|Atacante|Stade de Reims|24|68
+Reo Hatate|Atacante|Celtic|25|78
+Koki Ogawa|Atacante|Wolfsburg|26|69

@@ -1,0 +1,27 @@
+Costa do Marfim|E|77
+Yahia Fofana|Goleiro|Monaco|1|77
+Badra Ali Sangare|Goleiro|Sporting KC|16|73
+Alioune Badara Faty|Goleiro|Reims|23|68
+Serge Aurier|Defensor|Villarreal|3|79
+Simon Deli|Defensor|Slavia Prague|5|76
+Odilon Kossounou|Defensor|Bayer Leverkusen|4|77
+Ghislain Konan|Defensor|Montpellier|6|70
+Wilfried Singo|Defensor|Monaco|2|77
+Eric Bailly|Defensor|Wuhan Three Towns|13|71
+Willy Boly|Defensor|Nottingham Forest|22|77
+Jean-Louis Tourvel|Defensor|FC Lorient|15|68
+Franck Kessie|Meio-campo|Al-Ahli|8|81
+Jean Michael Seri|Meio-campo|Galatasaray|10|76
+Ibrahim Sangare|Meio-campo|Nottingham Forest|14|74
+Seko Fofana|Meio-campo|Al-Qadsiah|7|71
+Max Gradel|Meio-campo|Toulouse|20|76
+Serge Gnally|Meio-campo|Nantes|19|68
+Elliot Cardona|Meio-campo|Servette|17|68
+Sebastien Haller|Atacante|Borussia Dortmund|9|82
+Nicolas Pepe|Atacante|Nice|11|74
+Jonathan Bamba|Atacante|AC Milan|18|78
+Wilfried Zaha|Atacante|Galatasaray|21|81
+Simon Adingra|Atacante|Brighton|12|70
+Mory Kone|Atacante|Juventus|24|76
+Oumar Diakite|Atacante|Lausanne|25|68
+Amine Gouiri|Atacante|Stade Rennais|26|70

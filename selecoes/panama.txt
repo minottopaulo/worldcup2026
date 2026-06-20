@@ -1,0 +1,27 @@
+Panama|L|67
+Luis Mejia|Goleiro|Independiente|1|74
+Orlando Mosquera|Goleiro|CD Lugo|12|68
+Jose Calderon|Goleiro|Tauro FC|23|68
+Fidel Escobar|Defensor|Nashville SC|5|72
+Eric Davis|Defensor|Atlas|3|74
+Andres Andrade|Defensor|Austin FC|4|72
+Michael Murillo|Defensor|Nottingham Forest|2|76
+Ricardo Avila|Defensor|Deportivo Cali|6|68
+Ivan Anderson|Defensor|Tauro FC|15|69
+Cesar Yanis|Defensor|Philadelphia Union|13|69
+Edgardo Farina|Defensor|Club Atletico Tucuman|22|76
+Anibal Godoy|Meio-campo|Nashville SC|8|73
+Adalberto Carrasquilla|Meio-campo|Watford|10|72
+Alberto Quintero|Meio-campo|Cruz Azul|14|79
+Edgar Yoel Barcenas|Meio-campo|Hansa Rostock|7|74
+Rolando Blackburn|Meio-campo|Tondela|17|69
+Jose Fajardo|Meio-campo|Seattle Sounders|20|73
+Cristian Martinez|Meio-campo|Kansas City Wizards|16|69
+Ismael Diaz|Atacante|Watford|9|70
+Rolando Blackburn|Atacante|Tondela|11|70
+Gabriel Torres|Atacante|Al-Qadsiah|18|76
+Jose Luis Rodriguez|Atacante|Chivas|19|75
+Abdiel Ayarza|Atacante|Brann|21|69
+Michael Johnson|Atacante|Tauro FC|24|70
+Eduardo Anderson|Atacante|Club America|25|71
+Nestor Cordoba|Atacante|Tauro FC|26|68

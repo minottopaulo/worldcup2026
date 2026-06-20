@@ -1,0 +1,27 @@
+Suica|B|77
+Gregor Kobel|Goleiro|Borussia Dortmund|1|77
+Yvon Mvogo|Goleiro|Lorient|12|68
+Marvin Keller|Goleiro|Young Boys|21|68
+Ricardo Rodriguez|Defensor|Real Betis|13|81
+Manuel Akanji|Defensor|Inter Milan|5|82
+Silvan Widmer|Defensor|Mainz 05|3|77
+Nico Elvedi|Defensor|Borussia Mönchengladbach|4|72
+Miro Muheim|Defensor|Hamburger SV|2|73
+Eray Comert|Defensor|Valencia|18|69
+Aurele Amenda|Defensor|Eintracht Frankfurt|24|73
+Luca Jaquez|Defensor|VfB Stuttgart|25|73
+Granit Xhaka|Meio-campo|Sunderland|10|78
+Remo Freuler|Meio-campo|Bologna|8|81
+Denis Zakaria|Meio-campo|Monaco|6|79
+Djibril Sow|Meio-campo|Sevilla|15|76
+Michel Aebischer|Meio-campo|Pisa|20|69
+Christian Fassnacht|Meio-campo|Young Boys|16|70
+Fabian Rieder|Meio-campo|FC Augsburg|22|74
+Ardon Jashari|Meio-campo|Milan|14|76
+Johan Manzambi|Meio-campo|SC Freiburg|9|73
+Breel Embolo|Atacante|Rennes|7|81
+Ruben Vargas|Atacante|Sevilla|17|77
+Zeki Amdouni|Atacante|Burnley|23|75
+Dan Ndoye|Atacante|Nottingham Forest|11|75
+Noah Okafor|Atacante|Leeds United|19|74
+Cedric Itten|Atacante|Fortuna Dusseldorf|26|69

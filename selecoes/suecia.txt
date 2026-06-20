@@ -1,0 +1,27 @@
+Suecia|F|76
+Robin Olsen|Goleiro|Aston Villa|1|79
+Karl-Johan Johnsson|Goleiro|FC Nordsjaelland|12|69
+Samuel Brolin|Goleiro|AIK|23|68
+Victor Lindelof|Defensor|Manchester United|5|82
+Ludwig Augustinsson|Defensor|Sevilla|3|77
+Mikael Lustig|Defensor|AIK|4|74
+Emil Krafth|Defensor|Newcastle United|2|77
+Carl Starfelt|Defensor|Celtic|6|77
+Filip Helander|Defensor|Rangers|13|77
+Alexander Isak|Defensor|Newcastle United|15|82
+Pontus Jansson|Defensor|Brentford|22|77
+Albin Ekdal|Meio-campo|Sampdoria|8|74
+Dejan Kulusevski|Meio-campo|Tottenham|10|82
+Mattias Svanberg|Meio-campo|Wolfsburg|14|72
+Emil Forsberg|Meio-campo|RB Leipzig|7|78
+Viktor Claesson|Meio-campo|Krasnodar|17|72
+Jens-Lys Cajuste|Meio-campo|Napoli|16|77
+Jesper Karlsson|Meio-campo|Ajax|20|78
+Zlatan Ibrahimovic|Atacante|AC Milan|9|90
+Giorgi Gvardiol|Atacante|RB Leipzig|11|69
+Marcus Berg|Atacante|Al-Shamal|18|78
+Jordan Larsson|Atacante|Spartak Moscow|19|70
+Anthony Elanga|Atacante|Nottingham Forest|21|75
+Pontus Almqvist|Atacante|Lazio|24|77
+Gustav Isaksen|Atacante|Lazio|25|77
+Daniel Addo|Atacante|FC Nordsjälland|26|68

@@ -1,0 +1,27 @@
+Escocia|C|74
+Craig Gordon|Goleiro|Heart of Midlothian|1|73
+Angus Gunn|Goleiro|Nottingham Forest|23|74
+Liam Kelly|Goleiro|Rangers|12|76
+Andy Robertson|Defensor|Liverpool|3|86
+Grant Hanley|Defensor|Hibernian|5|71
+Kieran Tierney|Defensor|Celtic|4|79
+Scott McKenna|Defensor|Dinamo Zagreb|6|71
+Jack Hendry|Defensor|Al-Ettifaq|2|70
+Nathan Patterson|Defensor|Everton|13|74
+Anthony Ralston|Defensor|Celtic|15|77
+John Souttar|Defensor|Rangers|17|77
+Aaron Hickey|Defensor|Brentford|22|74
+Dominic Hyam|Defensor|Wrexham|24|68
+John McGinn|Meio-campo|Aston Villa|7|86
+Scott McTominay|Meio-campo|Napoli|8|82
+Ryan Christie|Meio-campo|Bournemouth|10|79
+Kenny McLean|Meio-campo|Norwich City|14|71
+Lewis Ferguson|Meio-campo|Bologna|16|74
+Ben Gannon-Doak|Meio-campo|Bournemouth|19|73
+Findlay Curtis|Meio-campo|Kilmarnock|20|68
+Lyndon Dykes|Atacante|Queens Park Rangers|11|82
+Lawrence Shankland|Atacante|Hearts|9|70
+Che Adams|Atacante|Southampton|18|77
+Ryan Gauld|Atacante|Vancouver Whitecaps|21|68
+Liam Scales|Atacante|Celtic|25|76
+Tyler Fletcher|Atacante|Sheffield United|26|68

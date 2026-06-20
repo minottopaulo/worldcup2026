@@ -1,0 +1,27 @@
+Marrocos|C|81
+Yassine Bounou|Goleiro|Al-Hilal|1|76
+Munir Mohamedi|Goleiro|RS Berkane|16|71
+Ahmed Reda Tagnaouti|Goleiro|AS FAR|23|68
+Achraf Hakimi|Defensor|Paris Saint-Germain|2|88
+Nayef Aguerd|Defensor|Marseille|5|71
+Noussair Mazraoui|Defensor|Manchester United|6|79
+Youssef Belammari|Defensor|Al Ahly|3|68
+Anass Salah-Eddine|Defensor|PSV Eindhoven|14|76
+Chadi Riad|Defensor|Crystal Palace|15|73
+Issa Diop|Defensor|Fulham|4|73
+Zakaria El Ouahdi|Defensor|Genk|20|68
+Redouane Halhal|Defensor|Mechelen|22|68
+Sofyan Amrabat|Meio-campo|Real Betis|8|78
+Azzedine Ounahi|Meio-campo|Girona|10|77
+Bilal El Khannouss|Meio-campo|VfB Stuttgart|7|74
+Ismael Saibari|Meio-campo|PSV Eindhoven|17|78
+Neil El Aynaoui|Meio-campo|Roma|18|76
+Samir El Mourabet|Meio-campo|Strasbourg|21|68
+Ayyoub Bouaddi|Meio-campo|Lille|19|68
+Ayoub El Kaabi|Atacante|Olympiacos|9|79
+Soufiane Rahimi|Atacante|Al-Ain|11|70
+Abde Ezzalzouli|Atacante|Real Betis|24|74
+Brahim Diaz|Atacante|Real Madrid|13|82
+Chemsdine Talbi|Atacante|Sunderland|25|68
+Gessime Yassine|Atacante|Strasbourg|26|68
+Ayoube Amaimouni|Atacante|Eintracht Frankfurt|12|73

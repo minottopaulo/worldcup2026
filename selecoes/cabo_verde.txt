@@ -1,0 +1,27 @@
+Cabo Verde|H|63
+Vozinha|Goleiro|Celta Vigo|1|69
+Marcelo|Goleiro|Academica Coimbra|12|68
+Marco Soares|Goleiro|Desportivo Aves|23|68
+Roberto Lopes|Defensor|Shamrock Rovers|5|69
+Stopira|Defensor|Granada CF|3|76
+Lisandro|Defensor|Standard Liege|4|68
+Dylan Tavares|Defensor|Benfica|2|76
+Diney|Defensor|Academico Viseu|6|69
+Sidney Semedo|Defensor|Boavista|15|69
+Carlos Ponck|Defensor|NEC Nijmegen|13|68
+Bruno Lopes|Defensor|Real Oviedo|22|68
+Ryan Mendes|Meio-campo|Rayo Vallecano|8|74
+Garry Rodrigues|Meio-campo|Galatasaray|10|79
+Filipe Morais|Meio-campo|Pacos de Ferreira|14|69
+Kenny Rocha|Meio-campo|AS Nancy|7|72
+Willy Semedo|Meio-campo|UD Levante|16|69
+Marco Soares|Meio-campo|CF Estrela|17|68
+Gilson Tavares|Meio-campo|CS Maritimo|20|69
+Ze Love|Atacante|Deportivo Toluca|9|73
+Julio Tavares|Atacante|Dijon|11|74
+Steven Fortes|Atacante|Deportivo de La Coruna|18|69
+Alves Costa|Atacante|Maccabi Tel Aviv|19|69
+Deroy Duarte|Atacante|Maccabi Tel Aviv|21|70
+Djaniny Tavares|Atacante|Santos Laguna|24|77
+Bruno Tavares|Atacante|Deportivo Maldonado|25|68
+Toni Varela|Atacante|Portimonense|26|68

@@ -1,0 +1,27 @@
+Argentina|J|91
+Emiliano Martinez|Goleiro|Aston Villa|1|79
+Geronimo Rulli|Goleiro|Ajax|12|77
+Franco Armani|Goleiro|River Plate|23|72
+Gonzalo Montiel|Defensor|Sevilla|4|76
+German Pezzella|Defensor|Real Betis|6|77
+Nicolas Otamendi|Defensor|Benfica|3|84
+Cristian Romero|Defensor|Tottenham|13|80
+Marcos Acuna|Defensor|Sevilla|8|77
+Nicolas Tagliafico|Defensor|Lyon|19|79
+Nahuel Molina|Defensor|Atletico Madrid|26|80
+Juan Foyth|Defensor|Villarreal|2|75
+Exequiel Palacios|Meio-campo|Bayer Leverkusen|14|79
+Leandro Paredes|Meio-campo|Roma|5|82
+Alexis Mac Allister|Meio-campo|Liverpool|20|84
+Rodrigo De Paul|Meio-campo|Atletico Madrid|7|84
+Alejandro Garnacho|Meio-campo|Manchester United|17|78
+Enzo Fernandez|Meio-campo|Chelsea|24|84
+Guido Rodriguez|Meio-campo|Real Betis|18|76
+Lionel Messi|Atacante|Inter Miami CF|10|85
+Julian Alvarez|Atacante|Atletico Madrid|9|82
+Lautaro Martinez|Atacante|Inter Milan|22|84
+Angel Di Maria|Atacante|Fiorentina|11|80
+Angel Correa|Atacante|Atletico Madrid|15|82
+Paulo Dybala|Atacante|Roma|21|82
+Alejandro Garnacho|Atacante|Manchester United|25|78
+Thiago Almada|Atacante|Atlanta United|16|68

@@ -1,0 +1,27 @@
+Africa do Sul|A|69
+Ronwen Williams|Goleiro|Mamelodi Sundowns|1|71
+Ricardo Goss|Goleiro|Siwelele|23|68
+Sipho Chaine|Goleiro|Orlando Pirates|12|68
+Aubrey Modiba|Defensor|Mamelodi Sundowns|5|72
+Khuliso Mudau|Defensor|Mamelodi Sundowns|2|69
+Nkosinathi Sibisi|Defensor|Orlando Pirates|4|68
+Mbekezeli Mbokazi|Defensor|Chicago Fire FC|15|68
+Ime Okon|Defensor|Hannover 96|3|73
+Samukele Kabini|Defensor|Molde|6|68
+Khulumani Ndamane|Defensor|Mamelodi Sundowns|13|68
+Thabang Matuludi|Defensor|Polokwane City|22|68
+Kamogelo Sebelebele|Defensor|Orlando Pirates|16|68
+Bradley Cross|Defensor|Kaizer Chiefs|17|68
+Olwethu Makhanya|Defensor|Philadelphia Union|20|68
+Teboho Mokoena|Meio-campo|Mamelodi Sundowns|8|72
+Sphephelo Sithole|Meio-campo|Tondela|11|69
+Thalente Mbatha|Meio-campo|Orlando Pirates|14|68
+Jayden Adams|Meio-campo|Mamelodi Sundowns|18|68
+Themba Zwane|Atacante|Mamelodi Sundowns|7|72
+Lyle Foster|Atacante|Burnley|9|75
+Evidence Makgopa|Atacante|Orlando Pirates|19|70
+Oswin Appollis|Atacante|Orlando Pirates|10|70
+Iqraam Rayners|Atacante|Mamelodi Sundowns|21|68
+Relebohile Mofokeng|Atacante|Orlando Pirates|24|68
+Thapelo Maseko|Atacante|AEL Limassol|25|68
+Tshepang Moremi|Atacante|Orlando Pirates|26|68

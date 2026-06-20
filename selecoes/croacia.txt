@@ -1,0 +1,27 @@
+Croacia|L|83
+Dominik Livakovic|Goleiro|Fenerbahçe|1|76
+Ivica Ivusic|Goleiro|Osijek|23|68
+Nediljko Labrovic|Goleiro|RB Salzburg|12|68
+Dejan Lovren|Defensor|Zenit Saint Petersburg|6|74
+Josip Juranovic|Defensor|Celtic|5|80
+Borna Sosa|Defensor|Ajax|3|78
+Josip Stanisic|Defensor|Bayern Munich|2|81
+Josko Gvardiol|Defensor|Manchester City|4|84
+Domagoj Vida|Defensor|AEK Athens|15|76
+Borna Barisic|Defensor|Rangers|22|80
+Martin Erlic|Defensor|Sassuolo|13|73
+Mateo Kovacic|Meio-campo|Manchester City|8|90
+Luka Modric|Meio-campo|Real Madrid|10|92
+Marcelo Brozovic|Meio-campo|Al-Nassr|11|81
+Ivan Perisic|Meio-campo|Hajduk Split|7|80
+Mario Pasalic|Meio-campo|Atalanta|14|82
+Nikola Vlasic|Meio-campo|Torino|17|74
+Lovro Majer|Meio-campo|Real Betis|16|75
+Andrej Kramaric|Atacante|TSG Hoffenheim|9|85
+Bruno Petkovic|Atacante|Dinamo Zagreb|18|74
+Marko Livaja|Atacante|Hajduk Split|19|70
+Ivan Budimir|Atacante|Osasuna|20|75
+Ante Budimir|Atacante|Osasuna|21|75
+Petar Sucic|Atacante|RB Salzburg|24|68
+Luka Ivanusec|Atacante|Dinamo Zagreb|25|70
+Antonio-Mirko Colak|Atacante|Rangers|26|78

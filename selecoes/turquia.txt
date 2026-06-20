@@ -1,0 +1,27 @@
+Turquia|D|78
+Mert Gunok|Goleiro|Besiktas|1|74
+Ugurcan Cakir|Goleiro|Trabzonspor|12|76
+Altay Bayindir|Goleiro|Manchester United|23|76
+Merih Demiral|Defensor|Al-Qadsiah|3|72
+Caglar Soyuncu|Defensor|Fenerbahçe|5|77
+Samet Akaydin|Defensor|Rayo Vallecano|4|68
+Zeki Celik|Defensor|Roma|2|80
+Abdulkerim Bardakci|Defensor|Galatasaray|13|75
+Mert Muldur|Defensor|Sassuolo|6|75
+Ahmetcan Kaplan|Defensor|Sassuolo|15|73
+Ferdi Kadioglu|Defensor|Brighton|22|70
+Hakan Calhanoglu|Meio-campo|Inter Milan|8|86
+Arda Guler|Meio-campo|Real Madrid|10|82
+Salih Ozcan|Meio-campo|Borussia Dortmund|14|79
+Orkun Kokcu|Meio-campo|Benfica|7|80
+Okay Yokuslu|Meio-campo|West Bromwich Albion|17|71
+Kaan Ayhan|Meio-campo|Galatasaray|16|76
+Ismail Yuksek|Meio-campo|Besiktas|20|73
+Kerem Akturkoglu|Atacante|Benfica|11|80
+Baris Alper Yilmaz|Atacante|Galatasaray|9|77
+Semih Kilicsoy|Atacante|Besiktas|18|74
+Cenk Tosun|Atacante|Besiktas|19|83
+Burak Yilmaz|Atacante|Trabzonspor|21|83
+Irfan Can Kahveci|Atacante|Fenerbahçe|24|77
+Yusuf Yazici|Atacante|LOSC Lille|25|72
+Yunus Akgun|Atacante|Galatasaray|26|74

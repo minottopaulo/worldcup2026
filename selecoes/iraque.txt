@@ -1,0 +1,27 @@
+Iraque|I|66
+Jalal Hassan|Goleiro|Al-Zawraa|1|71
+Dhurgham Ismail|Goleiro|Al-Naft|12|69
+Mohamed Hamid|Goleiro|Al-Quwa Al-Jawiya|23|68
+Saman Karimi|Defensor|Al-Shorta|5|69
+Ali Adnan|Defensor|Guadalajara|3|77
+Rebin Sulaka|Defensor|Halmstad|4|68
+Ali Mohsen|Defensor|Al-Zawraa|2|72
+Mustafa Nadhim|Defensor|Al-Shorta|6|69
+Alaa Abasi|Defensor|Sepahan|15|68
+Saad Natiq|Defensor|Al-Quwa Al-Jawiya|13|68
+Mohamed Hamid|Defensor|Al-Quwa Al-Jawiya|22|68
+Ahmed Ibrahim|Meio-campo|Feyenoord|8|77
+Amjad Attwan|Meio-campo|Al-Zawraa|10|72
+Nashat Akram|Meio-campo|Duhok|14|76
+Safaa Hadi|Meio-campo|Al-Diwaniya|7|70
+Mohanad Ali|Meio-campo|ASKL|17|69
+Saad Natiq|Meio-campo|Al-Shorta|16|69
+Yousif Sahib|Meio-campo|Al-Zawraa|20|68
+Aymen Hussein|Atacante|Al-Zawraa|9|78
+Alaa Abdul Zahra|Atacante|Al-Quwa Al-Jawiya|11|74
+Bashar Reisan|Atacante|Zamalek|18|72
+Hussein Ali|Atacante|Al-Diwaniya|19|70
+Humam Tariq|Atacante|Al-Naft|21|70
+Mahdi Kamil|Atacante|Al-Zawraa|24|68
+Ahmed Yasin|Atacante|Al-Zawraa|25|72
+Razzaq Farhan|Atacante|Al-Zawraa|26|69

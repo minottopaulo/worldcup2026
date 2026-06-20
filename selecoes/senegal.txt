@@ -1,0 +1,27 @@
+Senegal|I|80
+Edouard Mendy|Goleiro|Chelsea|1|83
+Alfred Gomis|Goleiro|Benfica|16|77
+Seny Dieng|Goleiro|Middlesbrough|23|69
+Kalidou Koulibaly|Defensor|Al-Hilal|12|79
+Abdou Diallo|Defensor|RB Leipzig|5|71
+Fodé Ballo-Touré|Defensor|AC Milan|3|77
+Pape Abou Cisse|Defensor|Olympiacos|4|77
+Bouna Sarr|Defensor|Bayern Munich|2|81
+Formose Mendy|Defensor|Amiens SC|6|68
+Ismail Jakobs|Defensor|Monaco|15|76
+Moussa Niakhate|Defensor|Nottingham Forest|22|74
+Cheikhou Kouyate|Meio-campo|Crystal Palace|8|79
+Idrissa Gueye|Meio-campo|Everton|14|79
+Sadio Mane|Meio-campo|Al-Nassr|10|83
+Nampalys Mendy|Meio-campo|Leicester City|7|71
+Krepin Diatta|Meio-campo|Monaco|17|80
+Lamine Camara|Meio-campo|Monaco|19|77
+Pape Gueye|Meio-campo|Villarreal|20|74
+Bamba Dieng|Atacante|Marseille|9|70
+Ismaila Sarr|Atacante|Crystal Palace|11|79
+Nicolas Jackson|Atacante|Chelsea|18|82
+Habib Diallo|Atacante|Strasbourg|21|72
+Famara Diedhiou|Atacante|Alanyaspor|13|74
+Abdallah Sima|Atacante|Brighton|24|68
+Iliman Ndiaye|Atacante|Everton|25|75
+Cheikh Niasse|Atacante|Trabzonspor|26|74

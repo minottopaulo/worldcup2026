@@ -1,0 +1,27 @@
+Espanha|H|88
+David de Gea|Goleiro|Manchester United|1|79
+Unai Simon|Goleiro|Athletic Bilbao|13|69
+Robert Sanchez|Goleiro|Chelsea|23|81
+Jordi Alba|Defensor|Inter Miami CF|3|79
+Aymeric Laporte|Defensor|Al-Nassr|4|77
+Sergio Ramos|Defensor|Sevilla|5|83
+Dani Carvajal|Defensor|Real Madrid|2|86
+Pau Torres|Defensor|Aston Villa|6|80
+Alejandro Grimaldo|Defensor|Bayer Leverkusen|24|78
+Inigo Martinez|Defensor|Barcelona|15|82
+Cesar Azpilicueta|Defensor|Atletico Madrid|22|82
+Koke|Meio-campo|Atletico Madrid|8|84
+Joselu|Meio-campo|Real Madrid|14|84
+Rodri|Meio-campo|Manchester City|16|84
+Gavi|Meio-campo|Barcelona|10|84
+David Silva|Meio-campo|Real Sociedad|21|80
+Carlos Soler|Meio-campo|Paris Saint-Germain|18|82
+Fabian Ruiz|Meio-campo|Paris Saint-Germain|17|81
+Alvaro Morata|Atacante|Atletico Madrid|7|86
+Ferran Torres|Atacante|Barcelona|9|86
+Ansu Fati|Atacante|Brighton|11|70
+Mikel Oyarzabal|Atacante|Real Sociedad|19|74
+Lamine Yamal|Atacante|Barcelona|20|82
+Nico Williams|Atacante|Athletic Bilbao|12|69
+Yeremi Pino|Atacante|Villarreal|25|74
+Ayoze Perez|Atacante|Villarreal|26|75

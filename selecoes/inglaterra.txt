@@ -1,0 +1,27 @@
+Inglaterra|L|86
+Jordan Pickford|Goleiro|Everton|1|76
+Aaron Ramsdale|Goleiro|Arsenal|13|80
+Nick Pope|Goleiro|Newcastle United|23|76
+Harry Maguire|Defensor|Manchester United|5|80
+Kyle Walker|Defensor|Manchester City|2|85
+John Stones|Defensor|Manchester City|6|86
+Luke Shaw|Defensor|Manchester United|3|78
+Trent Alexander-Arnold|Defensor|Liverpool|4|86
+Kieran Trippier|Defensor|Newcastle United|12|80
+Conor Coady|Defensor|Leicester City|15|68
+Ben White|Defensor|Arsenal|22|80
+Jordan Henderson|Meio-campo|Ajax|8|86
+Declan Rice|Meio-campo|Arsenal|4|84
+Kalvin Phillips|Meio-campo|Manchester City|14|81
+Raheem Sterling|Meio-campo|Chelsea|10|92
+Jack Grealish|Meio-campo|Manchester City|7|82
+Mason Mount|Meio-campo|Manchester United|19|82
+Phil Foden|Meio-campo|Manchester City|20|82
+Harry Kane|Atacante|Bayern Munich|9|94
+Marcus Rashford|Atacante|Manchester United|11|82
+Bukayo Saka|Atacante|Arsenal|17|86
+Tammy Abraham|Atacante|Roma|21|76
+Callum Wilson|Atacante|Newcastle United|18|76
+Dominic Calvert-Lewin|Atacante|Everton|24|73
+Ivan Toney|Atacante|Al-Ahli|25|72
+Cole Palmer|Atacante|Chelsea|26|81

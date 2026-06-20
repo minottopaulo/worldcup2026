@@ -1,0 +1,27 @@
+Tunisia|F|70
+Aymen Dahmen|Goleiro|Montpellier|1|69
+Bechir Ben Said|Goleiro|ES Tunis|16|69
+Mouez Hassen|Goleiro|Club Africain|23|69
+Montassar Talbi|Defensor|SC Braga|2|74
+Dylan Bronn|Defensor|SPAL|5|69
+Wajdi Kechrida|Defensor|Atiker Konyaspor|3|71
+Ali Maaloul|Defensor|Al Ahly|4|74
+Mohamed Dhaoui|Defensor|ES Tunis|15|69
+Nader Ghandri|Defensor|Salernitana|6|69
+Rami Bedoui|Defensor|CS Sfaxien|13|68
+Hamza Mathlouthi|Defensor|Al Batin|22|68
+Ellyes Skhiri|Meio-campo|Borussia Dortmund|8|82
+Anis Ben Slimane|Meio-campo|Brondby|10|75
+Ferjani Sassi|Meio-campo|Al Duhail|14|76
+Hannibal Mejbri|Meio-campo|Burnley|7|74
+Youssef Msakni|Meio-campo|Al Duhail|17|80
+Ghailene Chaalali|Meio-campo|Al-Qadsiah|20|71
+Mohamed Ben Amor|Meio-campo|CS Sfaxien|19|71
+Wahbi Khazri|Atacante|Montpellier|9|76
+Naim Sliti|Atacante|Dijon|11|72
+Saad Bguir|Atacante|Standard Liege|18|70
+Issam Jebali|Atacante|Odense|21|72
+Seifeddine Jaziri|Atacante|Ankaragucu|24|70
+Taha Yassine Khenissi|Atacante|CS Sfaxien|12|72
+Mohamed Talbi|Atacante|Lausanne|25|68
+Alaa Ghram|Atacante|Sfaxien|26|68

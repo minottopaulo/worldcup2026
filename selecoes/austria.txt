@@ -1,0 +1,27 @@
+Austria|J|78
+Patrick Pentz|Goleiro|Bayer Leverkusen|1|77
+Alexander Schlager|Goleiro|LASK|12|69
+Daniel Bachmann|Goleiro|Watford|23|69
+David Alaba|Defensor|Real Madrid|5|88
+Philipp Lienhart|Defensor|SC Freiburg|4|74
+Maximilian Wober|Defensor|Borussia Mönchengladbach|3|72
+Stefan Posch|Defensor|Bologna|2|74
+Gernot Trauner|Defensor|Feyenoord|6|80
+Kevin Danso|Defensor|RC Lens|13|69
+Andreas Ulmer|Defensor|Red Bull Salzburg|15|71
+Phillipp Mwene|Defensor|Mainz 05|22|74
+Florian Grillitsch|Meio-campo|Ajax|8|80
+Christoph Baumgartner|Meio-campo|RB Leipzig|10|74
+Marcel Sabitzer|Meio-campo|Borussia Dortmund|14|84
+Konrad Laimer|Meio-campo|Bayern Munich|7|83
+Nicolas Seiwald|Meio-campo|RB Leipzig|17|69
+Patrick Wimmer|Meio-campo|Wolfsburg|20|69
+Xaver Schlager|Meio-campo|RB Leipzig|16|72
+Marko Arnautovic|Atacante|Inter Milan|9|88
+Michael Gregoritsch|Atacante|SC Freiburg|11|79
+Sasa Kalajdzic|Atacante|Eintracht Frankfurt|18|75
+Andreas Weimann|Atacante|West Bromwich Albion|19|72
+Karim Adeyemi|Atacante|Borussia Dortmund|21|78
+Patrick Wimmer|Atacante|Wolfsburg|24|69
+Romano Schmid|Atacante|Werder Bremen|25|69
+Junior Adamu|Atacante|Red Bull Salzburg|26|68

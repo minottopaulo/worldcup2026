@@ -1,0 +1,27 @@
+Holanda|F|85
+Bart Verbruggen|Goleiro|Brighton|1|68
+Mark Flekken|Goleiro|Brentford|23|73
+Justin Bijlow|Goleiro|Feyenoord|16|76
+Virgil van Dijk|Defensor|Liverpool|4|86
+Nathan Ake|Defensor|Manchester City|5|84
+Denzel Dumfries|Defensor|Inter Milan|2|80
+Matthijs de Ligt|Defensor|Manchester United|3|80
+Daley Blind|Defensor|Girona|6|81
+Jurrien Timber|Defensor|Arsenal|13|81
+Stefan de Vrij|Defensor|Inter Milan|22|82
+Ian Maatsen|Defensor|Aston Villa|15|76
+Frenkie de Jong|Meio-campo|Barcelona|8|86
+Teun Koopmeiners|Meio-campo|Juventus|14|80
+Tijjani Reijnders|Meio-campo|AC Milan|20|78
+Georginio Wijnaldum|Meio-campo|PSG|21|80
+Steven Berghuis|Meio-campo|Ajax|7|82
+Memphis Depay|Meio-campo|Atletico Madrid|10|88
+Xavi Simons|Meio-campo|Paris Saint-Germain|17|82
+Cody Gakpo|Atacante|Liverpool|11|86
+Wout Weghorst|Atacante|Hoffenheim|9|79
+Donyell Malen|Atacante|Aston Villa|19|80
+Noa Lang|Atacante|PSV Eindhoven|18|78
+Brian Brobbey|Atacante|Ajax|24|78
+Quincy Promes|Atacante|Spartak Moscow|12|74
+Liam van Gelderen|Atacante|Mainz 05|25|73
+Jaydon Banel|Atacante|FC Twente|26|68

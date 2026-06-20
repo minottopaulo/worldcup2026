@@ -1,0 +1,27 @@
+Ira|G|75
+Alireza Beiranvand|Goleiro|Anderlecht|1|76
+Hossein Hosseini|Goleiro|Persepolis|12|68
+Payam Niazmand|Goleiro|Zob Ahan|23|68
+Majid Hosseini|Defensor|Kayserispor|5|72
+Sadegh Moharrami|Defensor|Dinamo Zagreb|2|72
+Morteza Pouraliganji|Defensor|Al-Gharafa|4|72
+Ramin Rezaeian|Defensor|Sepahan|3|74
+Ehsan Pahlevan|Defensor|Al-Wakrah|6|68
+Milad Mohammadi|Defensor|AEK Athens|15|72
+Shojae Khalilzadeh|Defensor|Sepahan|13|72
+Hossein Kanaanizadegan|Defensor|Sepahan|22|68
+Saeid Ezatolahi|Meio-campo|Vejle|8|74
+Ahmad Noorollahi|Meio-campo|Al-Ahli Doha|14|74
+Alireza Jahanbakhsh|Meio-campo|Feyenoord|10|88
+Ali Karimi|Meio-campo|Al-Feiha|7|72
+Mehdi Torabi|Meio-campo|Persepolis|17|72
+Ali Gholizadeh|Meio-campo|Charlton Athletic|16|70
+Omid Alishah|Meio-campo|Damash Gilan|20|68
+Mehdi Taremi|Atacante|Inter Milan|9|86
+Sardar Azmoun|Atacante|Bayer Leverkusen|11|86
+Allahyar Sayyadmanesh|Atacante|Fenerbahçe|18|75
+Karim Ansarifard|Atacante|Nottingham Forest|21|83
+Saman Ghoddos|Atacante|Brentford|19|77
+Shayan Mosleh|Atacante|Al-Wakrah|24|68
+Mohsen Mosalman|Atacante|Sepahan|25|68
+Farshad Ahmadzadeh|Atacante|Persepolis|26|70

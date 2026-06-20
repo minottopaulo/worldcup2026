@@ -1,0 +1,27 @@
+Uzbequistao|K|64
+Eldorbek Suyunov|Goleiro|Pakhtakor|1|68
+Utkir Yusupov|Goleiro|Lokomotiv Tashkent|12|69
+Botir Ergashev|Goleiro|AGMK|23|68
+Eldor Shomurodov|Defensor|Roma|5|82
+Botirjon Kholmatov|Defensor|AGMK|3|68
+Dostonbek Khamdamov|Defensor|FC Andijan|4|68
+Sanjar Tursunov|Defensor|Pakhtakor|2|69
+Akbar Shukurov|Defensor|Pakhtakor|6|68
+Temur Dzhaksybekov|Defensor|Pakhtakor|15|68
+Oybek Hamroyev|Defensor|Navbahor|13|68
+Sherzod Nasrullayev|Defensor|Dinamo Samarkand|22|68
+Jasur Yakhshiboyev|Meio-campo|AGMK|8|70
+Otabek Shukurov|Meio-campo|Pakhtakor|10|72
+Jamshid Iskanderov|Meio-campo|Pakhtakor|14|69
+Abdulaziz Hasanov|Meio-campo|Lokomotiv Tashkent|7|69
+Shokhruh Rakhimov|Meio-campo|FC Nasaf|17|69
+Umid Babaev|Meio-campo|Navbahor|20|68
+Nodir Tursunov|Meio-campo|Pakhtakor|16|69
+Ulugbek Askarov|Atacante|AGMK|9|72
+Abbosbek Fayzullayev|Atacante|Red Bull Salzburg|11|72
+Lochinbek Jurayev|Atacante|Pakhtakor|18|70
+Muzaffar Muminov|Atacante|Pakhtakor|19|69
+Sardor Rashidov|Atacante|Pakhtakor|21|70
+Saidakbar Parpiyev|Atacante|FC Nasaf|24|68
+Dostonbek Tursunov|Atacante|Navbahor|25|68
+Bekzod Komilov|Atacante|Lokomotiv Tashkent|26|68

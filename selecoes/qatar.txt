@@ -1,0 +1,27 @@
+Qatar|B|66
+Meshaal Barsham|Goleiro|Al-Sadd|22|74
+Mahmud Abunada|Goleiro|Al-Rayyan|1|68
+Salah Zakaria|Goleiro|Al-Duhail|21|68
+Pedro Miguel|Defensor|Al-Sadd|2|77
+Homam Ahmed|Defensor|Cultural Leonesa|14|72
+Boualem Khoukhi|Defensor|Al-Sadd|16|81
+Sultan Al-Brake|Defensor|Al-Duhail|18|68
+Lucas Mendes|Defensor|Al-Wakrah|3|69
+Issa Laye|Defensor|Al-Arabi|4|68
+Ayoub Al-Oui|Defensor|Al-Gharafa|13|68
+Al-Hashmi Al-Hussain|Defensor|Al-Arabi|25|68
+Abdulaziz Hatem|Meio-campo|Al-Rayyan|6|78
+Karim Boudiaf|Meio-campo|Al-Duhail|12|76
+Assim Madibo|Meio-campo|Al-Wakrah|23|71
+Jassem Gaber|Meio-campo|Al-Rayyan|5|69
+Ahmed Fathy|Meio-campo|Al-Arabi|20|71
+Mohamed Al-Mannai|Meio-campo|Al-Shamal|26|68
+Hassan Al-Haydos|Atacante|Al-Sadd|10|83
+Akram Afif|Atacante|Al-Sadd|11|83
+Almoez Ali|Atacante|Al-Duhail|19|82
+Ahmed Alaaeldin|Atacante|Al-Rayyan|7|72
+Mohammed Muntari|Atacante|Al-Gharafa|9|74
+Yusuf Abdurisag|Atacante|Al-Wakrah|15|69
+Ahmed Al-Ganehi|Atacante|Al-Gharafa|17|68
+Edmilson Junior|Atacante|Al-Duhail|8|68
+Tahsin Jamshid|Atacante|Al-Duhail|24|68

@@ -1,0 +1,27 @@
+Algeria|J|78
+Rais M'Bolhi|Goleiro|Al-Ettifaq|1|73
+Alexandre Oukidja|Goleiro|FC Metz|16|69
+Luca Zidane|Goleiro|Racing de Santander|23|71
+Ramy Bensebaini|Defensor|Borussia Dortmund|5|80
+Aissa Mandi|Defensor|Villarreal|3|79
+Djamel Benlamri|Defensor|Al-Hilal|4|75
+Jaouen Hadjam|Defensor|Angers SCO|2|69
+Rayan Ait-Nouri|Defensor|Wolverhampton Wanderers|6|75
+Zinedine Belaid|Defensor|Montpellier|15|69
+Samir Chergui|Defensor|Hatayspor|13|68
+Rafik Belghali|Defensor|Balikesirspor|22|68
+Ismael Bennacer|Meio-campo|AC Milan|8|82
+Riyad Mahrez|Meio-campo|Al-Ahli|10|83
+Said Benrahma|Meio-campo|West Ham United|14|79
+Nabil Bentaleb|Meio-campo|Angers SCO|7|72
+Haris Belkebla|Meio-campo|Brest|17|71
+Azzedine Ounahi|Meio-campo|Girona|20|77
+Houssem Aouar|Meio-campo|Roma|19|80
+Islam Slimani|Atacante|Monaco|9|86
+Andy Delort|Atacante|Nice|11|70
+Baghdad Bounedjah|Atacante|Al-Sadd|18|79
+Youcef Atal|Atacante|Nice|21|72
+Mounir El Hamdaoui|Atacante|Feyenoord|12|76
+Amir Sayoud|Atacante|ES Setif|24|68
+Alexis Claude-Maurice|Atacante|Nottingham Forest|25|73
+Zakaria Aboukhlal|Atacante|Toulouse|26|69

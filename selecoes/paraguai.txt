@@ -1,0 +1,27 @@
+Paraguai|D|72
+Antony Silva|Goleiro|Olimpia|1|73
+Santiago Arzamendia|Goleiro|Cerro Porteno|23|68
+Alfredo Aguilar|Goleiro|Libertad|12|68
+Junior Alonso|Defensor|Atletico Mineiro|3|80
+Gustavo Gomez|Defensor|Palmeiras|4|77
+Omar Alderete|Defensor|Valencia|5|72
+Ivan Piris|Defensor|Olimpia|2|69
+Robert Rojas|Defensor|River Plate|15|75
+Fabian Balbuena|Defensor|Dynamo Moscow|13|72
+Adrian Martinez|Defensor|Getafe|6|68
+Santiago Arzamendia|Defensor|Fluminense|22|72
+Miguel Almiron|Meio-campo|Newcastle United|8|84
+Mathias Villasanti|Meio-campo|Gremio|7|72
+Kike Saverio|Meio-campo|Getafe|10|68
+Andres Cubas|Meio-campo|Nottingham Forest|14|74
+Celso Ortiz|Meio-campo|Monterrey|16|74
+Rodrigo Rojas|Meio-campo|Racing Club|17|72
+Nicolas Canete|Meio-campo|Libertad|20|68
+Carlos Gonzalez|Atacante|LAFC|11|70
+Antonio Sanabria|Atacante|Roma|9|82
+Santiago Gimenez|Atacante|Cerro Porteno|18|70
+Gabriel Avalos|Atacante|Libertad|21|70
+Ramon Sosa|Atacante|Nottingham Forest|19|75
+Julio Enciso|Atacante|Brighton|24|70
+Matias Galarza|Atacante|Estudiantes|25|68
+Angel Cardozo|Atacante|Cerro Porteno|26|68

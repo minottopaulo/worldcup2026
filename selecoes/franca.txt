@@ -1,0 +1,27 @@
+Franca|I|90
+Hugo Lloris|Goleiro|Tottenham|1|83
+Mike Maignan|Goleiro|AC Milan|16|79
+Alphonse Areola|Goleiro|West Ham United|23|74
+Raphael Varane|Defensor|Como 1907|5|76
+Dayot Upamecano|Defensor|Bayern Munich|4|83
+Lucas Hernandez|Defensor|Paris Saint-Germain|3|83
+Benjamin Pavard|Defensor|Inter Milan|2|80
+Theo Hernandez|Defensor|AC Milan|23|80
+Jonathan Clauss|Defensor|Marseille|22|69
+William Saliba|Defensor|Arsenal|13|81
+Axel Disasi|Defensor|Chelsea|6|80
+Aurelien Tchouameni|Meio-campo|Real Madrid|8|84
+Adrien Rabiot|Meio-campo|Juventus|14|80
+Eduardo Camavinga|Meio-campo|Real Madrid|6|83
+Antoine Griezmann|Meio-campo|Atletico Madrid|7|88
+Kylian Mbappe|Meio-campo|Real Madrid|10|90
+Ousmane Dembele|Meio-campo|Paris Saint-Germain|21|88
+Matteo Guendouzi|Meio-campo|Lazio|17|78
+Olivier Giroud|Atacante|LA Galaxy|9|82
+Kingsley Coman|Atacante|Bayern Munich|11|86
+Marcus Thuram|Atacante|Inter Milan|18|82
+Randal Kolo Muani|Atacante|Juventus|20|78
+Bradley Barcola|Atacante|Paris Saint-Germain|15|82
+Moussa Diaby|Atacante|Aston Villa|19|78
+Evan Ndicka|Atacante|Roma|24|77
+Warren Zaire-Emery|Atacante|Paris Saint-Germain|25|80

@@ -1,0 +1,27 @@
+Egito|G|78
+Mohamed El-Shenawy|Goleiro|Al Ahly|1|69
+Mohamed Abou Gabal|Goleiro|Zamalek|16|71
+Mostafa Shobeir|Goleiro|Pyramids FC|23|68
+Ahmed Hegazy|Defensor|Al Ittihad|3|74
+Omar Gaber|Defensor|Los Angeles FC|5|72
+Mohamed Abdel Moneim|Defensor|ENPPI|4|69
+Mahmoud Hamdy|Defensor|Zamalek|2|70
+Ahmed Fattouh|Defensor|Al Masry|6|69
+Karim Fouad|Defensor|Pyramids FC|15|68
+Ayman Ashraf|Defensor|Al Ahly|13|69
+Akram Tawfik|Defensor|FC Midtjylland|22|73
+Mohamed Elneny|Meio-campo|Arsenal|8|86
+Tarek Hamed|Meio-campo|Al Ahly|10|71
+Amr El Sulaya|Meio-campo|Al Ahly|14|69
+Emam Ashour|Meio-campo|Al Ahly|7|68
+Mahmoud Hassan Trezeguet|Meio-campo|Trabzonspor|17|79
+Nasser Maher|Meio-campo|Al Ahly|20|69
+Ahmed Sayed Zizou|Meio-campo|Pyramids FC|19|72
+Mohamed Salah|Atacante|Liverpool|9|94
+Mostafa Mohamed|Atacante|Galatasaray|11|79
+Ahmed Refaat|Atacante|Future FC|18|70
+Omar Marmoush|Atacante|Manchester City|21|84
+Ramadan Sobhi|Atacante|Pyramids FC|12|72
+Marwan Hamdy|Atacante|Al Ahly|24|70
+Ziad Tarek|Atacante|Ceramica Cleopatra|25|68
+Mohamed Sherif|Atacante|Al-Hilal|26|71

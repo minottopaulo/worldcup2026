@@ -1,0 +1,27 @@
+Gana|L|73
+Lawrence Ati-Zigi|Goleiro|St. Gallen|1|69
+Joe Wollacott|Goleiro|Charlton Athletic|16|68
+Abdul Manaf Nurudeen|Goleiro|Clermont Foot|23|68
+Alexander Djiku|Defensor|Fenerbahçe|5|74
+Gideon Mensah|Defensor|Bordeaux|3|69
+Daniel Amartey|Defensor|Leicester City|4|72
+Andrew Yiadom|Defensor|Reading|2|69
+Tariq Lamptey|Defensor|Brighton|6|69
+Denis Odoi|Defensor|Club Brugge|13|73
+Abdul Rahman Baba|Defensor|Crystal Palace|15|74
+Baba Iddrisu|Defensor|Real Mallorca|22|69
+Thomas Partey|Meio-campo|Arsenal|8|86
+Mubarak Wakaso|Meio-campo|Jiangsu Suning|10|76
+Andre Ayew|Meio-campo|Al-Sadd|14|83
+Jordan Ayew|Meio-campo|Crystal Palace|7|83
+Emmanuel Gyasi|Meio-campo|Spezia|17|69
+Joseph Paintsil|Meio-campo|Gent|20|75
+Kamal Sowah|Meio-campo|Club Brugge|19|74
+Inaki Williams|Atacante|Athletic Bilbao|9|69
+Osman Bukari|Atacante|Red Star Belgrade|11|70
+Antoine Semenyo|Atacante|AFC Bournemouth|18|74
+Richmond Boakye|Atacante|Red Star Belgrade|21|70
+Benjamin Tetteh|Atacante|Sparta Prague|12|70
+Kwesi Okyere Wriedt|Atacante|Holstein Kiel|24|68
+Ransford-Yeboah Königsdörffer|Atacante|Hamburger SV|25|73
+Abdul Fatawu Issahaku|Atacante|Leicester City|26|70

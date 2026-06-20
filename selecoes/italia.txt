@@ -1,0 +1,27 @@
+Italia|B|82
+Gianluigi Donnarumma|Goleiro|Paris Saint-Germain|1|85
+Alex Meret|Goleiro|Napoli|12|77
+Guglielmo Vicario|Goleiro|Tottenham|23|76
+Leonardo Bonucci|Defensor|Fenerbahçe|19|81
+Federico Dimarco|Defensor|Inter Milan|3|80
+Alessandro Bastoni|Defensor|Inter Milan|4|79
+Francesco Acerbi|Defensor|Inter Milan|15|79
+Giovanni Di Lorenzo|Defensor|Napoli|2|80
+Riccardo Calafiori|Defensor|Arsenal|5|81
+Destiny Udogie|Defensor|Tottenham|13|77
+Andrea Cambiaso|Defensor|Juventus|24|77
+Marco Verratti|Meio-campo|Al-Khelaifi|6|76
+Bryan Cristante|Meio-campo|Roma|16|80
+Sandro Tonali|Meio-campo|Newcastle United|8|77
+Nicolo Barella|Meio-campo|Inter Milan|14|82
+Davide Frattesi|Meio-campo|Inter Milan|25|80
+Samuele Ricci|Meio-campo|Torino|18|69
+Lorenzo Pellegrini|Meio-campo|Roma|7|82
+Giacomo Raspadori|Meio-campo|Napoli|20|82
+Federico Chiesa|Atacante|Liverpool|17|86
+Gianluca Scamacca|Atacante|Atalanta|9|78
+Mattia Zaccagni|Atacante|Lazio|11|78
+Lorenzo Insigne|Atacante|Toronto FC|10|79
+Moise Kean|Atacante|Juventus|21|78
+Wilfried Gnonto|Atacante|Leeds United|22|74
+Mateo Retegui|Atacante|Atalanta|26|78

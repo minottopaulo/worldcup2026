@@ -1,0 +1,27 @@
+Haiti|C|62
+Johny Placide|Goleiro|Bastia|1|73
+Alexandre Pierre|Goleiro|Sochaux|12|68
+Josue Duverger|Goleiro|Cosmos Koblenz|23|68
+Ricardo Ade|Defensor|LDU Quito|2|71
+Carlens Arcus|Defensor|Angers|5|71
+Martin Experience|Defensor|Nancy|4|68
+Jean-Kevin Duverne|Defensor|Gent|3|73
+Duke Lacroix|Defensor|Colorado Springs Switchbacks FC|6|68
+Wilguens Paugain|Defensor|Zulte Waregem|13|68
+Hannes Delcroix|Defensor|Lugano|15|68
+Keeto Thermoncy|Defensor|Young Boys|22|68
+Leverton Pierre|Meio-campo|Vizela|8|69
+Danley Jean Jacques|Meio-campo|Philadelphia Union|10|70
+Carl Sainte|Meio-campo|El Paso Locomotive FC|14|69
+Jean-Ricner Bellegarde|Meio-campo|Wolverhampton Wanderers|7|73
+Woodensky Pierre|Meio-campo|Violette|16|68
+Dominique Simon|Meio-campo|Tatran Presov|17|68
+Duckens Nazon|Atacante|Esteghlal|9|78
+Frantzdy Pierrot|Atacante|Caykur Rizespor|11|76
+Derrick Etienne Jr.|Atacante|Toronto FC|18|75
+Louicius Deedson|Atacante|FC Dallas|19|70
+Ruben Providence|Atacante|Almere City|20|68
+Josue Casimir|Atacante|Auxerre|21|68
+Yassin Fortune|Atacante|Vizela|24|68
+Wilson Isidor|Atacante|Sunderland|25|68
+Lenny Joseph|Atacante|Ferencvaros|26|68

@@ -1,0 +1,27 @@
+Colombia|K|82
+David Ospina|Goleiro|Al-Nassr|1|78
+Camilo Vargas|Goleiro|Atlas|12|71
+Alvaro Montero|Goleiro|Millonarios|23|68
+Johan Mojica|Defensor|Girona|3|77
+Davinson Sanchez|Defensor|Galatasaray|4|79
+Yerry Mina|Defensor|Everton|5|77
+Daniel Munoz|Defensor|Crystal Palace|2|75
+Santiago Arias|Defensor|Bayer Leverkusen|13|80
+Oscar Murillo|Defensor|Fluminense|6|72
+Jorge Carrascal|Defensor|Dynamo Moscow|22|70
+Stefan Medina|Defensor|Monterrey|15|74
+Wilmar Barrios|Meio-campo|Zenit Saint Petersburg|8|71
+James Rodriguez|Meio-campo|Rayo Vallecano|10|78
+Mateus Uribe|Meio-campo|Club America|16|75
+Juan Cuadrado|Meio-campo|Inter Milan|14|88
+Jefferson Lerma|Meio-campo|Crystal Palace|7|77
+Gustavo Puerta|Meio-campo|Bayer Leverkusen|20|77
+Richard Rios|Meio-campo|Palmeiras|17|73
+Radamel Falcao|Atacante|Rayo Vallecano|9|80
+Luis Diaz|Atacante|Liverpool|11|86
+Jhon Cordoba|Atacante|Krasnodar|18|74
+Rafael Santos Borre|Atacante|Eintracht Frankfurt|21|79
+Duvan Zapata|Atacante|Torino|19|74
+Miguel Angel Borja|Atacante|River Plate|24|77
+Jhon Janer Lucumi|Atacante|Bologna|25|74
+Daniel Ruiz|Atacante|Millonarios|26|68

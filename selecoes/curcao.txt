@@ -1,0 +1,27 @@
+Curcao|E|63
+Eloy Room|Goleiro|Fortuna Sittard|1|71
+Wuilker Farinez|Goleiro|Millonarios|12|69
+Diederik Boer|Goleiro|Go Ahead Eagles|23|68
+Ethan Sand|Defensor|Lommel SK|5|69
+Raily Ignacio|Defensor|Deportivo Alaves|2|69
+Jurien Gaari|Defensor|Almere City|3|68
+Richelly Bazoer|Defensor|Vitesse|4|68
+Vurnon Anita|Defensor|WBO Suriname|6|74
+Gilson Tavares|Defensor|RKC Waalwijk|13|68
+Darryl Lachman|Defensor|Charlton Athletic|15|69
+Cuco Martina|Defensor|Rangers|22|79
+Leandro Bacuna|Meio-campo|Reading|8|72
+Servando Carrasco|Meio-campo|Club Tijuana|10|69
+Jairzinho Pieter|Meio-campo|Jong AZ|14|68
+Chedric Bazoer|Meio-campo|NEC Nijmegen|7|68
+Geoffrey Doomst|Meio-campo|OFI Crete|16|68
+Shaquill Sno|Meio-campo|Almeria|17|68
+Jarchinio Antonia|Atacante|KAA Gent|9|75
+Quentin Bony|Atacante|Stade de Reims|11|70
+Ruishandro Bilong|Atacante|Almere City|18|68
+Cory Burke|Atacante|Philadelphia Union|19|70
+Rangelo Janga|Atacante|Heerenveen|20|68
+Gevaro Nepomuceno|Atacante|St. Pauli|21|69
+Elson Hooi|Atacante|ADO Den Haag|24|68
+Myron Boadu|Atacante|Monchengladbach|25|68
+Jamiro Monteiro|Atacante|CFR Cluj|26|69

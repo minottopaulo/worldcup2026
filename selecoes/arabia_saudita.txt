@@ -1,0 +1,27 @@
+Arabia Saudita|H|71
+Mohammed Al-Owais|Goleiro|Al-Hilal|1|74
+Yasir Al-Mosailem|Goleiro|Al-Shabab|21|69
+Abdullah Al-Mayouf|Goleiro|Al-Ittihad|23|71
+Ali Al-Bulayhi|Defensor|Al-Hilal|5|77
+Abdullah Madu|Defensor|Al-Qadsiah|13|71
+Hassan Tambakti|Defensor|Al-Hilal|4|74
+Saud Abdulhamid|Defensor|AS Roma|3|79
+Ali Al-Hassan|Defensor|Al-Ittihad|6|72
+Sultan Al-Ghannam|Defensor|Al-Fateh|2|69
+Abdullah Al-Khaibari|Defensor|Al-Fateh|15|68
+Abdulelah Al-Amri|Defensor|Al-Hilal|22|72
+Sami Al-Najei|Meio-campo|Al-Ittihad|8|74
+Salem Al-Dawsari|Meio-campo|Al-Hilal|10|81
+Mohammed Al-Qasem|Meio-campo|Al-Ittihad|14|74
+Riyadh Mahrez|Meio-campo|Al-Ahli|7|83
+Salman Al-Faraj|Meio-campo|Al-Hilal|16|77
+Mohammed Al-Khaibri|Meio-campo|Al-Hilal|17|74
+Nasser Al-Dawsari|Meio-campo|Al-Ittihad|20|72
+Firas Al-Buraikan|Atacante|Al-Fateh|9|74
+Yahya Al-Shehri|Atacante|Al-Hilal|11|77
+Abdullah Al-Hamdan|Atacante|Al-Qadsiah|18|72
+Haitham Asiri|Atacante|Al-Wahda|19|70
+Khaled Bin Barik|Atacante|Al-Ahli|21|73
+Nasser Al-Sahili|Atacante|Al-Feiha|24|69
+Abdullah Radif|Atacante|Al-Qadsiah|25|68
+Omar Al-Somah|Atacante|Al-Hilal|26|83

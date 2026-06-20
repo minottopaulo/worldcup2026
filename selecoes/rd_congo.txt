@@ -1,0 +1,27 @@
+RD Congo|K|70
+Joël Kiassumbua|Goleiro|Valenciennes|1|69
+Lionel Mpasi|Goleiro|Charleroi|16|68
+Dimitri Bertaud|Goleiro|Montpellier|23|68
+Chancel Mbemba|Defensor|Porto|5|80
+Marcel Tisserand|Defensor|Getafe CF|3|72
+Arthur Masuaku|Defensor|Besiktas|4|76
+Jordan Ikoko|Defensor|FC Metz|2|69
+Dylan Batubinsika|Defensor|Strasbourg|6|68
+Cedric Bakambu|Defensor|LOSC Lille|15|74
+Tobias Badila|Defensor|Troyes|13|68
+Fode Koita|Defensor|Angers SCO|22|68
+Yannick Bolasie|Meio-campo|Casual de Suceveni|8|76
+Merveille Bope Bokadi|Meio-campo|Standard Liege|10|72
+Theo Bongonda|Meio-campo|Genk|14|72
+Neeskens Kebano|Meio-campo|Fulham|7|79
+Paul-Jose Mpoku|Meio-campo|El Jaish SC|17|74
+Gaël Kakuta|Meio-campo|Amiens|20|72
+Cédric Omoigui|Meio-campo|RWDM Brussels|16|68
+Dieumerci Mbokani|Atacante|Standard Liege|9|76
+Yannick Ferreira Carrasco|Atacante|Al-Qadsiah|11|76
+Héritier Luvumbu|Atacante|Nantes|18|72
+Rocky Bushiri|Atacante|RB Leipzig|19|69
+Jonathan David|Atacante|Juventus|21|86
+Emmanuel Lebo Lebo|Atacante|Espérance Sportive|24|70
+Meschack Elia|Atacante|Young Boys|25|70
+Arthur Nkwanah|Atacante|Shamrock Rovers|26|68

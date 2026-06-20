@@ -1,0 +1,27 @@
+Belgica|G|84
+Thibaut Courtois|Goleiro|Real Madrid|1|87
+Koen Casteels|Goleiro|VfL Wolfsburg|12|69
+Matz Sels|Goleiro|Nottingham Forest|23|73
+Toby Alderweireld|Defensor|Royal Antwerp|4|76
+Timothy Castagne|Defensor|Fulham|2|77
+Jan Vertonghen|Defensor|Anderlecht|5|81
+Leander Dendoncker|Defensor|Napoli|3|80
+Zeno Debast|Defensor|Sporting CP|6|74
+Arthur Theate|Defensor|Stade Rennais|13|69
+Thomas Meunier|Defensor|Trabzonspor|22|79
+Wout Faes|Defensor|Leicester City|15|69
+Axel Witsel|Meio-campo|Atletico Madrid|8|84
+Kevin De Bruyne|Meio-campo|Manchester City|7|92
+Amadou Onana|Meio-campo|Everton|14|74
+Eden Hazard|Meio-campo|Real Madrid|10|92
+Youri Tielemans|Meio-campo|Aston Villa|16|84
+Thorgan Hazard|Meio-campo|Anderlecht|20|83
+Arthur Vermeeren|Meio-campo|Atletico Madrid|17|76
+Romelu Lukaku|Atacante|Napoli|9|90
+Dries Mertens|Atacante|Galatasaray|11|87
+Lois Openda|Atacante|RB Leipzig|19|70
+Loïs Openda|Atacante|RB Leipzig|18|70
+Jeremy Doku|Atacante|Manchester City|21|81
+Leandro Trossard|Atacante|Arsenal|24|82
+Johan Bakayoko|Atacante|PSV Eindhoven|25|76
+Julien Duranville|Atacante|Borussia Dortmund|26|76

@@ -1,0 +1,27 @@
+EUA|D|77
+Matt Turner|Goleiro|New England Revolution|18|69
+Chris Brady|Goleiro|Chicago Fire FC|1|68
+Matt Freese|Goleiro|New York City FC|12|68
+Antonee Robinson|Defensor|Fulham|5|77
+Chris Richards|Defensor|Crystal Palace|4|74
+Tim Ream|Defensor|Charlotte FC|3|71
+Mark McKenzie|Defensor|Toulouse|15|69
+Sergino Dest|Defensor|PSV Eindhoven|2|80
+Joe Scally|Defensor|Borussia Mönchengladbach|13|69
+Miles Robinson|Defensor|FC Cincinnati|6|69
+Auston Trusty|Defensor|Celtic|22|76
+Max Arfsten|Defensor|Columbus Crew|21|68
+Alex Freeman|Defensor|Villarreal|23|73
+Weston McKennie|Meio-campo|Juventus|8|80
+Tyler Adams|Meio-campo|Bournemouth|7|76
+Gio Reyna|Meio-campo|Borussia Mönchengladbach|14|72
+Malik Tillman|Meio-campo|Bayer Leverkusen|16|78
+Cristian Roldan|Meio-campo|Seattle Sounders|10|77
+Sebastian Berhalter|Meio-campo|Vancouver Whitecaps|20|68
+Christian Pulisic|Atacante|AC Milan|9|86
+Tim Weah|Atacante|Olympique Marseille|11|75
+Brenden Aaronson|Atacante|Leeds United|17|77
+Folarin Balogun|Atacante|Monaco|19|78
+Ricardo Pepi|Atacante|PSV Eindhoven|24|78
+Alex Zendejas|Atacante|Club America|25|71
+Haji Wright|Atacante|Coventry City|26|69

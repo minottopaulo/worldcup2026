@@ -1,0 +1,27 @@
+Rep. Tcheca|A|73
+Matej Kovar|Goleiro|PSV Eindhoven|1|76
+Jindrich Stanek|Goleiro|Slavia Prague|23|73
+Lukas Hornicek|Goleiro|Braga|12|73
+Vladimir Coufal|Defensor|TSG Hoffenheim|2|76
+Tomas Holes|Defensor|Slavia Prague|5|76
+Ladislav Krejci|Defensor|Wolverhampton Wanderers|3|75
+David Zima|Defensor|Slavia Prague|4|74
+Jaroslav Zeleny|Defensor|Sparta Prague|6|69
+David Jurasek|Defensor|Slavia Prague|13|73
+David Doudera|Defensor|Slavia Prague|15|73
+Robin Hranac|Defensor|TSG Hoffenheim|14|73
+Stepan Chaloupek|Defensor|Slavia Prague|24|73
+Tomas Soucek|Meio-campo|West Ham United|7|81
+Vladimir Darida|Meio-campo|Hradec Kralove|16|74
+Lukas Provod|Meio-campo|Slavia Prague|8|74
+Michal Sadilek|Meio-campo|Slavia Prague|17|74
+Pavel Sulc|Meio-campo|Lyon|19|75
+Lukas Cerv|Meio-campo|Viktoria Plzen|20|68
+Hugo Sochurek|Meio-campo|Sparta Prague|21|68
+Alexandr Sojka|Meio-campo|Viktoria Plzen|22|68
+Denis Visinsky|Meio-campo|Viktoria Plzen|25|68
+Patrik Schick|Atacante|Bayer Leverkusen|9|82
+Adam Hlozek|Atacante|TSG Hoffenheim|11|77
+Jan Kuchta|Atacante|Sparta Prague|10|69
+Mojmir Chytil|Atacante|Slavia Prague|18|75
+Tomas Chory|Atacante|Slavia Prague|26|75

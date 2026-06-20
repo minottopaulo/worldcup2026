@@ -1,0 +1,27 @@
+Brasil|C|88
+Alisson|Goleiro|Liverpool|1|85
+Weverton|Goleiro|Gremio|12|71
+Ederson|Goleiro|Fenerbahçe|23|74
+Marquinhos|Defensor|Paris Saint-Germain|4|88
+Gabriel Magalhaes|Defensor|Arsenal|3|80
+Alex Sandro|Defensor|Flamengo|6|74
+Danilo Luiz|Defensor|Flamengo|13|74
+Bremer|Defensor|Juventus|14|76
+Leo Pereira|Defensor|Flamengo|15|71
+Wesley|Defensor|Roma|2|76
+Douglas Santos|Defensor|Zenit Saint Petersburg|16|68
+Roger Ibanez|Defensor|Al-Ahli|24|71
+Casemiro|Meio-campo|Manchester United|5|82
+Bruno Guimaraes|Meio-campo|Newcastle United|8|79
+Lucas Paqueta|Meio-campo|Flamengo|20|77
+Fabinho|Meio-campo|Al-Ittihad|17|72
+Danilo Santos|Meio-campo|Botafogo|18|71
+Vinicius Junior|Atacante|Real Madrid|7|84
+Neymar|Atacante|Santos|10|85
+Raphinha|Atacante|Barcelona|11|82
+Matheus Cunha|Atacante|Manchester United|9|77
+Endrick|Atacante|Lyon|19|73
+Luiz Henrique|Atacante|Zenit Saint Petersburg|21|68
+Gabriel Martinelli|Atacante|Arsenal|22|81
+Igor Thiago|Atacante|Brentford|25|73
+Rayan|Atacante|Bournemouth|26|73
